@@ -4,91 +4,91 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 .materialize-red {
-  background-color: #e51c23 !important;
+  background-color: #0073f7 !important;
 }
 
 .materialize-red-text {
-  color: #e51c23 !important;
+  color: #0073f7 !important;
 }
 
 .materialize-red.lighten-5 {
-  background-color: #fdeaeb !important;
+  background-color: #eafafd;
 }
 
 .materialize-red-text.text-lighten-5 {
-  color: #fdeaeb !important;
+  color:  #eafafd !important;
 }
 
 .materialize-red.lighten-4 {
-  background-color: #f8c1c3 !important;
+  background-color: #c1e9f8 !important;
 }
 
 .materialize-red-text.text-lighten-4 {
-  color: #f8c1c3 !important;
+  color: #c1f2f8 !important;
 }
 
 .materialize-red.lighten-3 {
-  background-color: #f3989b !important;
+  background-color: #98e1f3 !important;
 }
 
 .materialize-red-text.text-lighten-3 {
-  color: #f3989b !important;
+  color: #98e5f3 !important;
 }
 
 .materialize-red.lighten-2 {
-  background-color: #ee6e73 !important;
+  background-color: #6ed0ee !important;
 }
 
 .materialize-red-text.text-lighten-2 {
-  color: #ee6e73 !important;
+  color: #6ecaee !important;
 }
 
 .materialize-red.lighten-1 {
-  background-color: #ea454b !important;
+  background-color: #45bbea !important;
 }
 
 .materialize-red-text.text-lighten-1 {
-  color: #ea454b !important;
+  color: #45d1ea !important;
 }
 
 .materialize-red.darken-1 {
-  background-color: #d0181e !important;
+  background-color: #18c4d0 !important;
 }
 
 .materialize-red-text.text-darken-1 {
-  color: #d0181e !important;
+  color: #188dd0 !important;
 }
 
 .materialize-red.darken-2 {
-  background-color: #b9151b !important;
+  background-color: #1577b9 !important;
 }
 
 .materialize-red-text.text-darken-2 {
-  color: #b9151b !important;
+  color: #156ab9 !important;
 }
 
 .materialize-red.darken-3 {
-  background-color: #a21318 !important;
+  background-color: #1351a2 !important;
 }
 
 .materialize-red-text.text-darken-3 {
-  color: #a21318 !important;
+  color: #1369a2 !important;
 }
 
 .materialize-red.darken-4 {
-  background-color: #8b1014 !important;
+  background-color: #10498b !important;
 }
 
 .materialize-red-text.text-darken-4 {
-  color: #8b1014 !important;
+  color: #10508b !important;
 }
 
 .red {
-  background-color: #F44336 !important;
+  background-color: #36b8f4 !important;
 }
 
 .red-text {
-  color: #F44336 !important;
+  color: #36bef4 !important;
 }
 
 .red.lighten-5 {
@@ -132,15 +132,15 @@
 }
 
 .red.darken-1 {
-  background-color: #E53935 !important;
+  background-color: #357be5 !important;
 }
 
 .red-text.text-darken-1 {
-  color: #E53935 !important;
+  color: #3587e5 !important;
 }
 
 .red.darken-2 {
-  background-color: #D32F2F !important;
+  background-color: #2f91d3 !important;
 }
 
 .red-text.text-darken-2 {

@@ -71,7 +71,7 @@ margin-right: 10px;
 	
 font-weight: 700;
 	
-color: #e62026;
+color: #209de6;
 	
 border: 1px solid;
 	
@@ -156,7 +156,7 @@ header .navbar {
     margin-top: 18px;
     padding: 0 0 0 15px;
 }
-.navbar-default .navbar-brand{color: #e62026;font-size: 24px;text-transform: uppercase;}
+.navbar-default .navbar-brand{color: #20bee6;font-size: 24px;text-transform: uppercase;}
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{color: #fff;}
 header .navbar-collapse  ul.navbar-nav {
     float: right;
@@ -756,8 +756,8 @@ form#commentform textarea {
 
 .about-text .btn {
 	margin-top: 20px;
-	//font-size: 15px;
-	//text-align: justify;
+	font-size: 15px;
+	text-align: justify;
 }
 
 .about-image img {
@@ -770,7 +770,6 @@ form#commentform textarea {
 
 .about-text li {
 	margin-bottom: 10px;
-	//
 	font-weight: bold;
 	list-style: none;
 }
@@ -1512,7 +1511,7 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
+/* ============================= */ 
 
 .clear-marginbot{
 	margin-bottom:0;
